@@ -42,4 +42,4 @@ Powering the electric assembly is done by a old mobile charger.
 
 ### Misc
 
-I put some images in the schematics folder with an programming device for the Arduino Mini Pro. You can also just take the Arduino Nano which has a USB Port for programming.
+I put some images in the schematics folder with an programming device for the Arduino Mini Pro. You can also just take the Arduino Nano which has a USB Port for programming.(AR
